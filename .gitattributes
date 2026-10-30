@@ -1,0 +1,2 @@
+# Godot writes LF; check files out as LF so a fresh clone opened in Godot stays clean.
+* text=auto eol=lf
